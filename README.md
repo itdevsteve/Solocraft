@@ -21,7 +21,7 @@ While following the [TrinityCore installation guide][1] after you have used git
 to grab the TrinityCore source but before you [run cmake][2] you need to add
 this git submodule:
 
-`git submodule add https://github.com/DavidMacalaster/Solocraft.git
+`git submodule add https://github.com/itdevsteve/Solocraft.git
 src/server/scripts/Custom/Solocraft`
 
 then add Solocraft to [src/server/scripts/Custom/custom_script_loader.cpp][3]:
